@@ -68,6 +68,7 @@ o	Columns will include URL_ID, URL, and various text analysis metrics like:
 
  
 Troubleshooting
+
 •	Missing Dependencies: If you get errors related to missing libraries, ensure you have installed all required dependencies using pip install.
 •	File Paths: Verify that the input Excel file and dictionary files are correctly placed in the specified paths.
 •	Connection Issues: If the script fails to fetch articles due to connection problems, check the internet connection or verify the URLs.
